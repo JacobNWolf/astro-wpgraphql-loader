@@ -1,0 +1,16 @@
+{
+  "name": "astro-wpgraphql-loader",
+  "version": "0.0.1",
+  "description": "A loader for Astro's Content Layer API that uses WPGraphQL to fetch data from WordPress.",
+  "main": "index.ts",
+  "keywords": [
+    "astro",
+    "wpgraphql",
+    "wordpress",
+    "content",
+    "layer",
+    "api"
+  ],
+  "author": "Jacob Wolf",
+  "license": "BSD-3-Clause"
+}
